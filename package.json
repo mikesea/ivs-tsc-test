@@ -1,0 +1,14 @@
+{
+  "name": "ivs-tsc-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
