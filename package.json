@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "amazon-ivs-player": "^1.8.0",
     "typescript": "^4.6.3"
   }
 }
